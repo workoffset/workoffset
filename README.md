@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @workoffset
-- 👀 I’m interested in c stuff
-- 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me. Don't.
+- 👀 I’m interested in c,c++, c#/blazor
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate
+- 📫 Reach me by email.
 
 <!---
 workoffset/workoffset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
