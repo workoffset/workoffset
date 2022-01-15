@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @workoffset
-- 👀 I’m interested in c,c++, c#/blazor
+- 👀 I’m interested in c,c++,java,node
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate
 - 📫 Reach me by email.
